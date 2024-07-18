@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+input{
+    padding: 2%;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+button{
+    padding: 2%;
+    width: 20vw;
+    border-radius: 50px;
+    background-color: yellow;
+    font-size: 18px;
+}
